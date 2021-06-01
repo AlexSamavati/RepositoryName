@@ -1,2 +1,2 @@
 Learning Git and Github for now ...
-Continiue practicing.
+Still continue practising!
